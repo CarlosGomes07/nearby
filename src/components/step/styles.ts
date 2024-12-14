@@ -11,7 +11,7 @@ export const s = StyleSheet.create({
         flex: 1,
     },
     title: {
-        fontSize: 12,
+        fontSize: 13,
         fontFamily: fontFamily.semiBold,
         color: colors.gray[600],
     },
